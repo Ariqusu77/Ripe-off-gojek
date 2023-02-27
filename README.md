@@ -1,5 +1,5 @@
 <div align="center">
-<h1> [Nama Project] </h1>
+<h1> Gojek-Ripe-Off </h1>
 </div>
 
 ## 📄 Deskripsi proyek
