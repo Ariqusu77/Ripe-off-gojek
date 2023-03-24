@@ -27,7 +27,7 @@ class Homepage extends StatelessWidget {
           children: <Widget>[
             Center(
               child: Transform.scale(
-                scale: 1.3, 
+                scale: 1.3,
                 child: const Image(
                   image: AssetImage('asset/Logo2.png'),
                   width: 200,
@@ -60,8 +60,9 @@ class Homepage extends StatelessWidget {
                   ),
                   ElevatedButton(
                     onPressed: () {
+                      Navigator.pop(context);
                       Navigator.pushNamed(context, '/Login');
-                    }, 
+                    },
                     style: ElevatedButton.styleFrom(
                       minimumSize: const Size(110, 35),
                       backgroundColor: const Color(0xFF3097E1),
@@ -74,10 +75,11 @@ class Homepage extends StatelessWidget {
                   ),
                   ElevatedButton(
                     onPressed: () {
+                      Navigator.pop(context);
                       Navigator.pushNamed(context, '/Register');
-                    }, 
+                    },
                     style: ElevatedButton.styleFrom(
-                      minimumSize: const  Size(110, 35), 
+                      minimumSize: const Size(110, 35),
                       backgroundColor: const Color(0xFF3097E1),
                       foregroundColor: Colors.black,
                       shape: RoundedRectangleBorder(

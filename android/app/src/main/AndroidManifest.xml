@@ -35,6 +35,5 @@
             android:value="YOUR_API_KEY"/>
 
         <uses-library android:name="org.apache.http.legacy" android:required="false"/>
-        <uses-library android:name="android.webkit"/>
     </application>
 </manifest>
