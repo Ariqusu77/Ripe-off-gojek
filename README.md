@@ -16,3 +16,4 @@
 ## 📝 Log
 
 - <23/3/2023> first commit >> Ariq Maulana Tazakka
+- <23/3/2023> second commit >> Ariq Maulana Tazakka
