@@ -14,3 +14,5 @@
 - 📦 Flutter - UI development
 
 ## 📝 Log
+
+- <23/3/2023> first commit >> Ariq Maulana Tazakka
