@@ -32,7 +32,7 @@
             android:value="2" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_API_KEY"/>
+            android:value="AIzaSyBEK0t0EfrgNZzlN0b6MGMJ4lXxNU4Dgow"/>
 
         <uses-library android:name="org.apache.http.legacy" android:required="false"/>
     </application>

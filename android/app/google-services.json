@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53845704015",
+    "firebase_url": "https://project-fpb201-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-fpb201",
+    "storage_bucket": "project-fpb201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53845704015:android:f17b270c30ab517b48593a",
+        "android_client_info": {
+          "package_name": "com.example.coba_ulang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53845704015-2moo5fr2la9eer2bmp3n8qh353h0ab16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkrz9vLYn8DTu7mPNSwguvl1Vpn62IqfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53845704015-2moo5fr2la9eer2bmp3n8qh353h0ab16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
